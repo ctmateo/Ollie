@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ctmateo/Ollie/static/css/main.84c5d147.chunk.css",
+    "main.js": "/ctmateo/Ollie/static/js/main.fb129963.chunk.js",
+    "main.js.map": "/ctmateo/Ollie/static/js/main.fb129963.chunk.js.map",
+    "runtime-main.js": "/ctmateo/Ollie/static/js/runtime-main.9d05835f.js",
+    "runtime-main.js.map": "/ctmateo/Ollie/static/js/runtime-main.9d05835f.js.map",
+    "static/js/2.84db07a8.chunk.js": "/ctmateo/Ollie/static/js/2.84db07a8.chunk.js",
+    "static/js/2.84db07a8.chunk.js.map": "/ctmateo/Ollie/static/js/2.84db07a8.chunk.js.map",
+    "static/js/3.265c178f.chunk.js": "/ctmateo/Ollie/static/js/3.265c178f.chunk.js",
+    "static/js/3.265c178f.chunk.js.map": "/ctmateo/Ollie/static/js/3.265c178f.chunk.js.map",
+    "index.html": "/ctmateo/Ollie/index.html",
+    "static/css/main.84c5d147.chunk.css.map": "/ctmateo/Ollie/static/css/main.84c5d147.chunk.css.map",
+    "static/js/2.84db07a8.chunk.js.LICENSE.txt": "/ctmateo/Ollie/static/js/2.84db07a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d05835f.js",
+    "static/js/2.84db07a8.chunk.js",
+    "static/css/main.84c5d147.chunk.css",
+    "static/js/main.fb129963.chunk.js"
+  ]
+}
